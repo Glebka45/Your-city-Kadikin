@@ -1,6 +1,6 @@
 def main():
-    print('My first git rep')
-    print('And I change it every day ')
+    print('My first git-repo')
+
 
 if __name__ == '__main__':
     main()
